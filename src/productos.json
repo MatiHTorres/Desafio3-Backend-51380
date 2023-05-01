@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Catan",
+    "description": "Juego de mesa , Catan",
+    "price": 25000,
+    "thumbnail": "https://devirinvestments.s3.eu-west-1.amazonaws.com/img/catalog/product/8436017220100-1200-face3d.jpg",
+    "code": "1827",
+    "stock": "15",
+    "id": 1
+  },
+  {
+    "title": "Monopoly",
+    "description": "Juego de mesa , Monopoly",
+    "price": 20000,
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/5934112_1?wid=800&hei=800&qlt=70",
+    "code": "2458",
+    "stock": "15",
+    "id": 2
+  },
+  {
+    "title": "Exploding Kittens",
+    "description": "Juego de cartas , Exploding Kittens",
+    "price": 17000,
+    "thumbnail": "https://m.media-amazon.com/images/I/710D3AP+ipL.jpg",
+    "code": "8572",
+    "stock": "15",
+    "id": 3
+  },
+  {
+    "title": "UNO",
+    "description": "Juego de cartas , UNO",
+    "price": 12000,
+    "thumbnail": "https://dojiw2m9tvv09.cloudfront.net/10102/product/unoclasico-14328.jpg",
+    "code": "5782",
+    "stock": "15",
+    "id": 4
+  },
+  {
+    "title": "Clue",
+    "description": "Juego de mesa , Clue",
+    "price": 22000,
+    "thumbnail": "https://www.paris.cl/dw/image/v2/BCHW_PRD/on/demandware.static/-/Sites-cencosud-master-catalog/default/dwcde6c150/images/imagenes-productos/649/209150-0000-001.jpg?sw=513&sh=654&sm=fit",
+    "code": "1537",
+    "stock": "15",
+    "id": 5
+  },
+  {
+    "title": "Magic",
+    "description": "Juego de cartas , Magic",
+    "price": 25000,
+    "thumbnail": "..........",
+    "code": "6485",
+    "stock": "12",
+    "id": 6
+  },
+  {
+    "title": "Yu Gi Oh",
+    "description": "Juego de cartas , Yu Gi Oh",
+    "price": 21000,
+    "thumbnail": "..........",
+    "code": "9831",
+    "stock": "18",
+    "id": 7
+  },
+  {
+    "title": "Mala Leche",
+    "description": "Juego de cartas , Mala Leche",
+    "price": 18000,
+    "thumbnail": "..........",
+    "code": "4695",
+    "stock": "15",
+    "id": 8
+  },
+  {
+    "title": "Domino",
+    "description": "Juego de logica , Domino",
+    "price": 10000,
+    "thumbnail": "..........",
+    "code": "5583",
+    "stock": "15",
+    "id": 9
+  },
+  {
+    "title": "Pictionary",
+    "description": "Juego de adivinanzas , Pictionary",
+    "price": 13500,
+    "thumbnail": "..........",
+    "code": "7957",
+    "stock": "15",
+    "id": 10
+  }
+]
